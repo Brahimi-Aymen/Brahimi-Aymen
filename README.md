@@ -11,7 +11,7 @@ Linux • Réseau • Docker • Automatisation Bash • Orientation DevOps
 Mon profil est orienté **opérationnel** : comprendre une architecture, la déployer, l’exploiter, diagnostiquer les incidents et automatiser les tâches récurrentes.  
 Mon parcours entrepreneurial m’a également apporté une forte rigueur, un sens des responsabilités et une bonne communication avec des interlocuteurs techniques et non techniques.
 
-Je recherche une **alternance ou un poste junior** en **administration systèmes, infrastructure ou DevOps junior**.
+Je recherche une **alternance** en **administration systèmes, infrastructure ou DevOps junior**.
 
 ---
 
